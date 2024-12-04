@@ -56,7 +56,7 @@ function Sidebar() {
           <br />
           <a href="#">Text Link Four</a>
           <br />
-          <a href="http://www.templatemo.com" target="_parent">
+          <a href="http://www.templatemo.com" >
             Free Templates
           </a>
           <br />

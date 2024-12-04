@@ -7,12 +7,12 @@ function Home(props) {
     <>
       <div className="title">Home</div>
       This free CSS template is provided by{" "}
-      <a href="http://www.templatemo.com" target="_parent">
+      <a href="http://www.templatemo.com" >
         templatemo.com
       </a>
       .Feel free to download, modify and use this layout for your websites.It
       would be helpful if you put a kind of credit link back to{" "}
-      <a href="http://www.templatemo.com" target="_parent">
+      <a href="http://www.templatemo.com">
         templatemo.com
       </a>{" "}
       website. Thank you.
